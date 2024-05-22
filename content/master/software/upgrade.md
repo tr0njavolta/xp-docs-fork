@@ -4,7 +4,7 @@ weight: 200
 ---
 
 The recommended upgrade method for an existing Crossplane install is to use
-[Helm](http://helm.io).
+[Helm](http://helm.sh).
 
 ## Prerequisites
 * [Helm](https://helm.sh/docs/intro/install/) version `v3.2.0` or later
