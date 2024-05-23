@@ -23,8 +23,14 @@ The following flags are available for all commands.
 
 ## version
 
-The `crossplane version` command returns the version of the Crossplane CLI you
-are running.
+The `crossplane version` command returns the version of Crossplane CLI
+and the control plane.
+
+```shell
+crossplane version
+Client Version: v1.16.0
+Server Version: v1.16.0
+```
 
 ## xpkg
 
